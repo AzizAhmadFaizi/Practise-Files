@@ -23,3 +23,5 @@ git config --global user.name "Aziz Ahmad"
 
 8. Get information about saving version
   git log
+
+9. 

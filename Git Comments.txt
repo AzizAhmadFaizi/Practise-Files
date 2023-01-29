@@ -1,0 +1,16 @@
+Git Note:
+
+1. Get Version INFO.
+   git --version
+
+2. Status INFO
+   git status
+
+3. Make this repository as git
+   git init
+
+4. All directions add to stage level
+   git add .
+
+5. ADD to Main 
+   git commit -m "Version 1"

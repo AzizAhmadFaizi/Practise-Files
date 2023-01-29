@@ -14,3 +14,12 @@ Git Note:
 
 5. ADD to Main 
    git commit -m "Version 1"
+
+6. To add the username 
+git config --global user.name "Aziz Ahmad"
+
+7. Add the email to git
+  git config --global user.email "azizahmad.faizi10@gmail.com"
+
+8. Get information about saving version
+  git log

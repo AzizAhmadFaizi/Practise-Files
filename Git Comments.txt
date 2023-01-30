@@ -24,4 +24,8 @@ git config --global user.name "Aziz Ahmad"
 8. Get information about saving version
   git log
 
-9. 
+9. Send the File to origin
+  git remote add origin (SSD address)
+
+10. Push the content of files
+  git push -u origin master

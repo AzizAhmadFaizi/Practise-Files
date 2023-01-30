@@ -29,3 +29,7 @@ git config --global user.name "Aziz Ahmad"
 
 10. Push the content of files
   git push -u origin master
+
+
+11. If you edit files in ...
+   git pull origin master
